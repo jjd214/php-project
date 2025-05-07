@@ -1,6 +1,6 @@
 <?php 
 $page_title ="Login Form";
-include('header.php');
+include('partials/__header.php');
 include('navbar.php'); 
 ?>
 
