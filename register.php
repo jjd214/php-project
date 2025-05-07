@@ -1,7 +1,7 @@
 <?php 
 $page_title ="Registration Form";
 include('partials/__header.php');
-include('navbar.php'); 
+include('includes/navbar.php');
 ?>
 
     <div class="py-5">

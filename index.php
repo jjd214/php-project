@@ -2,8 +2,8 @@
 $page_title = "Home Page";
 
 include('partials/__header.php');
-include('navbar.php'); 
-
+include('includes/navbar.php');
+#a
 ?>
     <header>
       <div class="section__container header__container" id="home">
