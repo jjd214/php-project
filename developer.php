@@ -1,7 +1,8 @@
 <?php 
 $page_title = "Developer Page";
 include('header.php');
-include('navbar.php'); 
+#include('navbar.php'); 
+include('includes/navbar.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">

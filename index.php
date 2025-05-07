@@ -1,7 +1,7 @@
 <?php 
 $page_title = "Home Page";
 include('header.php');
-include('navbar.php'); 
+include('includes/navbar.php');
 ?>
 
 

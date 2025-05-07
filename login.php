@@ -1,7 +1,7 @@
 <?php 
 $page_title ="Login Form";
 include('header.php');
-include('navbar.php'); 
+include('includes/navbar.php');
 ?>
 
 <!-- Add this style to position the footer correctly -->
