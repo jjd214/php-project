@@ -30,7 +30,7 @@ include('includes/navbar.php');
         <div class="doctors__grid">
           <div class="doctors__card">
             <div class="doctors__card__image">
-              <img src="ako.png" alt="doctor" />
+              <img src="images/castillio.png" alt="doctor" />
               <div class="doctors__socials">
                 <span><i class="ri-instagram-line"></i></span>
                 <span><i class="ri-facebook-fill"></i></span>
@@ -43,7 +43,7 @@ include('includes/navbar.php');
           </div>
           <div class="doctors__card">
             <div class="doctors__card__image">
-              <img src="kirb.png" alt="doctor" />
+              <img src="images/capungcol.png" alt="doctor" />
               <div class="doctors__socials">
                 <span><i class="ri-instagram-line"></i></span>
                 <span><i class="ri-facebook-fill"></i></span>
@@ -56,7 +56,7 @@ include('includes/navbar.php');
           </div>
           <div class="doctors__card">
             <div class="doctors__card__image">
-              <img src="jl.png" alt="doctor" />
+              <img src="images/monchez.png" alt="doctor" />
               <div class="doctors__socials">
                 <span><i class="ri-instagram-line"></i></span>
                 <span><i class="ri-facebook-fill"></i></span>
@@ -75,7 +75,7 @@ include('includes/navbar.php');
           <div class="doctors__grid">
             <div class="doctors__card">
               <div class="doctors__card__image">
-                <img src="crist.png" alt="doctor" />
+                <img src="images/arribe.png" alt="doctor" />
                 <div class="doctors__socials">
                   <span><i class="ri-instagram-line"></i></span>
                   <span><i class="ri-facebook-fill"></i></span>
@@ -88,7 +88,7 @@ include('includes/navbar.php');
             </div>
             <div class="doctors__card">
               <div class="doctors__card__image">
-                <img src="phil.png" alt="doctor" />
+                <img src="images/balater.png" alt="doctor" />
                 <div class="doctors__socials">
                   <span><i class="ri-instagram-line"></i></span>
                   <span><i class="ri-facebook-fill"></i></span>
