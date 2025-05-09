@@ -68,7 +68,7 @@ include('includes/navbar.php');
         </p>
       </div>
       <div class="about__image">
-        <img src="salit.jpg" alt="about" />
+        <img src="images/salitran-logo.jpg" alt="about" />
       </div>
     </section>
 
